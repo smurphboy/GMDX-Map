@@ -1,3 +1,3 @@
 # Islands of Scotland Award Map
 
-[map 2](maps/IOSAMap2.html)
+[map 2](maps/IOSA2.html)
