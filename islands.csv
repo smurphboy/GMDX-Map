@@ -1,0 +1,216 @@
+001	Clyde	CL01	Arran	n	55.58	5.25
+002	Clyde	CL02	Bute	n	55.83	5.07
+003	Clyde	CL03	Great Cumbrae	n	55.77	4.92
+004	Clyde	CL04	Little Cumbrae	y	55.72	4.95
+005	Clyde	CL05	Ailsa Craig	y	55.25	5.12
+006	Clyde	CL06	Holy Island	y	55.52	5.07
+007	Clyde	CL07	Pladda	y	55.43	5.12
+008	Clyde	CL08	Sanda	y	55.28	5.58
+009	Clyde	CL09	Davaar	y	55.42	5.54
+010	Clyde	CL10	Inchmarnock	y	55.79	5.16
+011	Clyde	CL11	Lady Isle	y	55.53	4.73
+012	Clyde	CL12	Horse Island	y	55.65	4.84
+013	Clyde	CL13	Burnt Islands (Bute)	y	55.93	5.17
+014	Clyde	CL14	Eilean Dubh (Bute)	n	55.93	5.18
+015	Firth of Lorne	FL01	Lismore	n	56.51	5.50
+016	Firth of Lorne	FL02	Kerrera	n	56.40	5.54
+017	Firth of Lorne	FL03	Seil	n	56.30	5.62
+018	Firth of Lorne	FL04	Luing	n	56.24	5.64
+019	Firth of Lorne	FL05	Scarba	y	56.18	5.71
+020	Firth of Lorne	FL06	Garvellachs	y	56.23	5.78
+021	Firth of Lorne	FL07	Lunga	y	56.22	5.70
+022	Firth of Lorne	FL08	Shuna (E of Luing)	y	56.22	5.60
+023	Firth of Lorne	FL09	Eilean Macaskin	y	56.13	5.56
+024	Firth of Lorne	FL10	Eilean Righ	y	56.16	5.54
+025	Firth of Lorne	FL11	Eilean Mhic-Chrion	y	56.18	5.54
+026	Firth of Lorne	FL12	Shuna (NW of Appin)	y	56.59	5.39
+027	Firth of Lorne	FL13	Torsa (NE of Luing)	y	56.26	5.62
+028	Firth of Lorne	FL14	Easdale (W of Seil)	y	56.29	5.66
+029	Outliers	OL01	Flannan	y	58.28	7.58
+030	Outliers	OL02	St. Kilda	y	57.82	8.58
+031	Outliers	OL03	North Rona	y	59.12	5.83
+032	Outliers	OL04	Sula Sgeir	y	59.10	6.13
+033	Firth of Forth	FF01	Isle of May	y	56.19	2.56
+034	Firth of Forth	FF02	Bass Rock	y	56.08	2.64
+035	Firth of Forth	FF03	Craigleith	y	56.07	2.71
+036	Firth of Forth	FF04	Fidra	y	56.07	2.78
+037	Firth of Forth	FF05	Inchkeith	y	56.03	3.13
+038	Firth of Forth	FF06	Inchcolm	y	56.03	3.30
+039	Firth of Forth	FF07	Inchmickery	y	56.01	3.27
+040	Firth of Forth	FF08	Lamb Island	y	56.07	2.75
+041	Firth of Forth	FF09	Cramond Island	n	55.99	3.29
+042	Solway Firth	SF01	Hestan	y	54.83	3.81
+043	Solway Firth	SF02	Little Ross	y	54.77	4.08
+044	Solway Firth	SF03	Islands of Fleet	y	54.82	4.22
+045	Solway Firth	SF04	Murray's Island	y	54.82	4.24
+046	Shetland and Fair Isle	SH01	Mainland	n	60.10	1.27
+047	Shetland and Fair Isle	SH02	Unst	n	60.73	0.87
+048	Shetland and Fair Isle	SH03	Yell	n	60.57	1.10
+049	Shetland and Fair Isle	SH04	Fetlar	n	60.60	0.87
+050	Shetland and Fair Isle	SH05	Whalsay	n	60.35	0.97
+051	Shetland and Fair Isle	SH06	Bressay	n	60.15	1.08
+052	Shetland and Fair Isle	SH07	Foula	n	60.13	2.07
+053	Shetland and Fair Isle	SH08	Out Skerries	n	60.42	0.77
+054	Shetland and Fair Isle	SH09	Fair Isle	n	59.54	1.63
+055	Shetland and Fair Isle	SH10	Mousa	y	60.00	1.17
+056	Shetland and Fair Isle	SH11	Noss	y	60.15	1.02
+057	Shetland and Fair Isle	SH12	Vaila	y	60.20	1.59
+058	Shetland and Fair Isle	SH13	Vementry	y	60.33	1.46
+059	Shetland and Fair Isle	SH14	Papa Stour	y	60.33	1.70
+060	Shetland and Fair Isle	SH15	Hascosay	y	60.61	0.99
+061	Shetland and Fair Isle	SH16	Hildasay	y	60.15	1.36
+062	Shetland and Fair Isle	SH17	Papa Little	y	60.33	1.39
+063	Shetland and Fair Isle	SH18	Uyea (N of Mainland)	y	60.62	1.43
+064	Shetland and Fair Isle	SH19	Balta (E of Unst)	y	60.74	0.79
+065	Shetland and Fair Isle	SH20	Bigga (SW of Yell)	y	60.49	1.19
+066	Shetland and Fair Isle	SH21	Trondra (W of Mainland)	y	60.12	1.29
+067	Shetland and Fair Isle	SH22	West Burra (W of Mainland)	y	60.09	1.32
+068	Shetland and Fair Isle	SH23	East Burra (W of Mainland)	y	60.08	1.31
+069	Shetland and Fair Isle	SH24	Oxna (W of Mainland)	y	60.12	1.37
+070	Shetland and Fair Isle	SH25	Papa (W of Mainland)	y	60.12	1.34
+071	Shetland and Fair Isle	SH26	Linga (Olna Firth)	y	60.36	1.36
+072	Shetland and Fair Isle	SH27	Linga (E of Yell)	y	60.67	0.98
+073	Shetland and Fair Isle	SH28	West Linga (W of Whalsay)	y	60.36	1.04
+074	Shetland and Fair Isle	SH29	Muckle Roe (W of Mainland)	y	60.37	1.42
+075	Shetland and Fair Isle	SH30	Uyea	y	60.67	0.90
+076	Orkney Islands	OR01	Mainland	n	58.98	3.08
+077	Orkney Islands	OR02	Westray	n	59.30	2.95
+078	Orkney Islands	OR03	Papa Westray	n	59.35	2.89
+079	Orkney Islands	OR04	North Ronaldsay	n	59.37	2.42
+080	Orkney Islands	OR05	South Ronaldsay	n	58.82	2.93
+081	Orkney Islands	OR06	Hoy	n	58.83	3.28
+082	Orkney Islands	OR07	Shapinsay	n	59.05	2.85
+083	Orkney Islands	OR08	Stronsay	n	59.12	2.60
+084	Orkney Islands	OR09	Rousay	n	59.15	3.03
+085	Orkney Islands	OR10	Sanday	n	59.25	2.57
+086	Orkney Islands	OR11	Eday	n	59.17	2.78
+087	Orkney Islands	OR12	Egilsay	n	59.16	2.92
+088	Orkney Islands	OR13	Flotta	n	58.83	3.12
+089	Orkney Islands	OR14	Burray	n	58.85	2.90
+090	Orkney Islands	OR15	Swona	y	58.74	3.06
+091	Orkney Islands	OR16	Switha	y	58.80	3.10
+092	Orkney Islands	OR17	Fara	y	58.84	3.17
+093	Orkney Islands	OR18	Cava	y	58.88	3.17
+094	Orkney Islands	OR19	Copinsay	y	58.90	2.67
+095	Orkney Islands	OR20	Graemsay	n	58.93	3.29
+096	Orkney Islands	OR21	Gairsay	y	59.08	2.98
+097	Orkney Islands	OR22	Wyre	n	59.12	2.97
+098	Orkney Islands	OR23	Faray	y	59.22	2.83
+099	Orkney Islands	OR24	Eynhallow	y	59.15	3.12
+100	Orkney Islands	OR25	Auskerry	y	59.03	2.57
+101	Orkney Islands	OR26	Lamb Holm	n	58.89	2.89
+102	Orkney Islands	OR27	Glims Holm	n	58.88	2.91
+103	Orkney Islands	OR28	Hunda	y	58.85	2.98
+104	Orkney Islands	OR29	Calf of Eday (NE of Eday)	y	59.24	2.73
+105	Orkney Islands	OR30	Hellier Holm (SW of Shapinsay)	y	59.02	2.90
+106	Orkney Islands	OR31	Linga Holm (NW of Stronsay)	y	59.13	2.67
+107	Orkney Islands	OR32	Muckle Green Holm (SW of Eday)	y	59.13	2.83
+108	Orkney Islands	OR33	Holm of Scockness (E of Rousay)	y	59.17	2.95
+109	Orkney Islands	OR34	Papa Stronsay (NE of Stronsay)	y	59.15	2.59
+110	Orkney Islands	OR35	Holm of Grimbister	n	59.03	3.06
+111	Orkney Islands	OR36	Damsay	n	59.01	3.06
+112	Outer Hebrides	OH01	Lewis and Harris	n	58.10	6.72
+113	Outer Hebrides	OH02	North Uist	n	57.60	7.33
+114	Outer Hebrides	OH03	South Uist	n	57.25	7.35
+115	Outer Hebrides	OH04	Benbecula	n	57.45	7.33
+116	Outer Hebrides	OH05	Berneray (N of N Uist)	n	57.72	7.18
+117	Outer Hebrides	OH06	Monach Islands	y	57.52	7.62
+118	Outer Hebrides	OH07	Vatersay	n	56.93	7.53
+119	Outer Hebrides	OH08	Mingulay	y	56.81	7.64
+120	Outer Hebrides	OH09	Eriskay	n	57.08	7.29
+121	Outer Hebrides	OH10	Sandray	y	56.89	7.52
+122	Outer Hebrides	OH11	Barra	n	56.98	7.45
+123	Outer Hebrides	OH12	Great Bernera	n	58.22	6.83
+124	Outer Hebrides	OH13	Scarp	y	58.02	7.13
+125	Outer Hebrides	OH14	Taransay	y	57.90	7.01
+126	Outer Hebrides	OH15	Pabbay	y	57.77	7.23
+127	Outer Hebrides	OH16	South Berneray	y	56.78	7.64
+128	Outer Hebrides	OH17	South Pabbay	y	56.85	7.58
+129	Outer Hebrides	OH18	Shiant Islands	y	57.89	6.36
+130	Outer Hebrides	OH19	Boreray	y	57.71	7.28
+131	Outer Hebrides	OH20	Killegray	n	57.74	7.08
+132	Outer Hebrides	OH21	Ensay	y	57.77	7.08
+133	Outer Hebrides	OH22	Eilean Lubhard	y	58.00	6.43
+134	Outer Hebrides	OH23	Seaforth	y	58.00	6.72
+135	Outer Hebrides	OH24	Mealista	y	58.08	7.13
+136	Outer Hebrides	OH25	Scalpay (Harris)	n	57.87	6.67
+137	Outer Hebrides	OH26	Baleshare	n	57.53	7.36
+138	Outer Hebrides	OH27	Grimsay	n	57.49	7.24
+139	Outer Hebrides	OH28	Vallay (NW of N Uist)	y	57.66	7.41
+140	Outer Hebrides	OH29	Kirkibost	y	57.56	7.42
+141	Outer Hebrides	OH30	Ronay	y	57.49	7.18
+142	Outer Hebrides	OH31	Wiay (NE of S Uist)	y	57.40	7.21
+143	Outer Hebrides	OH32	Little Bernera	y	58.27	6.87
+144	Outer Hebrides	OH33	Eilean Chaluim Chille (E of Lewis)	y	58.10	6.44
+145	Outer Hebrides	OH34	Calvay (NE of Eriskay)	y	57.09	7.27
+146	Outer Hebrides	OH35	Fiaray (N of Barra)	y	57.07	7.44
+147	Outer Hebrides	OH36	Fuday (NE of Barra)	y	57.05	7.39
+148	Outer Hebrides	OH37	Fuiay (E of Barra)	y	57.00	7.37
+149	Inner Hebrides	NH01	Canna	y	57.06	6.52
+150	Inner Hebrides	NH02	Rhum	y	57.00	6.32
+151	Inner Hebrides	NH03	Eigg	y	56.90	6.15
+152	Inner Hebrides	NH04	Tiree	n	56.50	6.88
+153	Inner Hebrides	NH05	Coll	n	56.62	6.57
+154	Inner Hebrides	NH06	Muck	y	56.83	6.25
+155	Inner Hebrides	NH07	Skye	n	57.38	6.30
+156	Inner Hebrides	NH08	Ascrib Islands	y	57.59	6.52
+157	Inner Hebrides	NH09	Rona	y	57.53	5.97
+158	Inner Hebrides	NH10	Raasay	n	57.37	6.03
+159	Inner Hebrides	NH11	Pabay (Skye)	y	57.27	5.86
+160	Inner Hebrides	NH12	Crowlin Islands	y	57.34	5.83
+161	Inner Hebrides	NH13	Longay	y	57.31	5.89
+162	Inner Hebrides	NH14	Wiay (Skye)	y	57.34	6.50
+163	Inner Hebrides	NH15	Mull	n	56.43	5.95
+164	Inner Hebrides	NH16	Iona	n	56.33	6.42
+165	Inner Hebrides	NH17	Treshnish Islands	y	56.48	6.42
+166	Inner Hebrides	NH18	Ulva	y	56.48	6.22
+167	Inner Hebrides	NH19	Colonsay	n	56.07	6.22
+168	Inner Hebrides	NH20	Oronsay	y	56.02	6.25
+169	Inner Hebrides	NH21	Jura	n	55.92	6.00
+170	Inner Hebrides	NH22	Islay	n	55.75	6.17
+171	Inner Hebrides	NH23	Texa	y	55.62	6.14
+172	Inner Hebrides	NH24	Gigha	n	55.67	5.75
+173	Inner Hebrides	NH25	Cara	y	55.63	5.75
+174	Inner Hebrides	NH26	Soay	y	57.16	6.19
+175	Inner Hebrides	NH27	Little Colonsay	y	56.45	6.26
+176	Inner Hebrides	NH28	Gometra	y	56.49	6.29
+177	Inner Hebrides	NH29	Staffa	y	56.43	6.34
+178	Inner Hebrides	NH30	Scalpay (Skye)	y	57.30	5.97
+179	Inner Hebrides	NH31	Trodday	y	57.73	6.30
+180	Inner Hebrides	NH32	Fladda	y	57.74	6.43
+181	Inner Hebrides	NH33	Mingay (Skye)	y	57.52	6.64
+182	Inner Hebrides	NH34	Isay	y	57.52	6.65
+183	Inner Hebrides	NH35	Eorsa (Mull)	y	56.47	6.09
+184	Inner Hebrides	NH36	Calve Island (Mull)	y	56.62	6.04
+185	Inner Hebrides	NH37	Inch Kenneth	y	56.44	6.16
+186	Inner Hebrides	NH38	Harlosh (W of Skye)	y	57.36	6.53
+187	Inner Hebrides	NH39	Tarner (W of Skye)	y	57.36	6.49
+188	Inner Hebrides	NH40	Oronsay (SE of Skye)	y	57.15	5.79
+189	Inner Hebrides	NH41	Eilean Flodigarry (NE of Skye)	y	57.66	6.23
+190	Inner Hebrides	NH42	Staffin Islands (NE of Skye)	y	57.64	6.20
+191	Inner Hebrides	NH43	Jura Small Isles (SE of Jura)	y	55.84	5.93
+192	Inner Hebrides	NH44	Eilean Imersay (SE of Islay)	y	55.64	6.09
+193	Inner Hebrides	NH45	Orsay (Islay) (W of Islay)	y	55.67	6.51
+194	Inner Hebrides	NH46	Gigalum (SE of Gigha)	y	55.65	5.74
+195	Scottish Coastal Islands	SC01	Pentland Skerries	y	58.69	2.92
+196	Scottish Coastal Islands	SC02	Stroma	y	58.68	3.12
+197	Scottish Coastal Islands	SC03	Neave	y	58.55	4.29
+198	Scottish Coastal Islands	SC04	Eilean Nan Ron	y	58.56	4.34
+199	Scottish Coastal Islands	SC05	Rabbit Islands	y	58.54	4.39
+200	Scottish Coastal Islands	SC06	Eilean Hoan	y	58.57	4.67
+201	Scottish Coastal Islands	SC07	Handa	y	58.38	5.20
+202	Scottish Coastal Islands	SC08	Oldany	y	58.26	5.26
+203	Scottish Coastal Islands	SC09	Gruinard	y	57.89	5.47
+204	Scottish Coastal Islands	SC10	Summer Isles	y	58.01	5.40
+205	Scottish Coastal Islands	SC11	Isles of Ewe	y	57.83	5.63
+206	Scottish Coastal Islands	SC12	Eilean Horrisdale	y	57.70	5.71
+207	Scottish Coastal Islands	SC13	Longa	y	57.73	5.80
+208	Scottish Coastal Islands	SC14	Isle Martin	y	57.95	5.23
+209	Scottish Coastal Islands	SC15	Shona (Moidart)	y	56.80	5.86
+210	Scottish Coastal Islands	SC16	Oronsay (Loch Sunart)	y	56.66	5.93
+211	Scottish Coastal Islands	SC17	Carna (Loch Sunart)	y	56.66	5.89
+212	Scottish Coastal Islands	SC18	Soyea Island (W of Lochinver)	y	58.14	5.32
+213	Scottish Coastal Islands	SC20	Isle Ristol (N of Summer Isles)	y	58.04	5.44
+214	Scottish Coastal Islands	SC21	Eilean Mullagrach (N of Summer Isles)	y	58.05	5.46
+215	Scottish Coastal Islands	SC22	Eilean Ghlais (N of Summer Isles)	y	58.03	5.47
+ 
